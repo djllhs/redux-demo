@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
     "presets": ["es2015","react"],
     "env": {
@@ -6,13 +6,5 @@
             "presets": ["react-hmre"]
         }
     }
-=======
-{
-    "presets": ["es2015","react"],
-    "env": {
-        "development": {
-            "presets": ["react-hmre"]
-        }
-    }
->>>>>>> d30ffba178deb1512202cc05bac17e78c19dff18
+
 }
